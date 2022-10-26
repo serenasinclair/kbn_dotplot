@@ -33,7 +33,7 @@ function DotplotVisTypeProvider(Private) {
   // Vis object of this type.
   return new TemplateVisType({
     name: 'dotplot',
-    title: 'Dot plot',
+    title: 'Dot plot - version Serena',
     icon: 'fa-ellipsis-v',
     description: 'Display values in a dot plot',
     category: VisType.CATEGORY.DATA,
